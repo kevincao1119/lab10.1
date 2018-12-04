@@ -15,7 +15,7 @@ int main(int argc, char *argv[])
 
 /*  char *device = "28-000f98430c3f"; */
 
-char *device = "28-000f98430c3f";
+char *device = "28-0023984300c5";
  int verbose = 0;
  /* process the arguments */
  argc--; argv++;
